@@ -1,0 +1,41 @@
+a{
+    color: red;
+}
+body {
+    background-color: lightblue;
+  }
+  
+h1, h2, h3{
+color: white;
+}
+p {
+font-family: verdana;
+font-size: 20px;
+}
+table, th, td {
+    border: 1px solid;
+    border-color: green;
+}
+.right{
+    justify-content: right;
+}
+img{
+    display: flex;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+figure{
+    display: inline;
+}
+h1{
+    text-align: center;
+}
+a:hover{
+    color: black;
+    text-decoration: none;
+}
+.link{
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+}
